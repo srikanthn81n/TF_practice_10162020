@@ -11,3 +11,9 @@
 ######## loops_count Folder - Contains code which explains usage of count for iteration in TF
 
 ######## loops_for_each Folder - Contains code which explains usage of for_each for iteration in TF 
+
+######## dynamic_block Folder - Contains code which explains how to create code with for_each loop for inline blocks by input variable of datatype map.
+
+######## dynamic_block_list_input Folder - Contains code which explains how to create code with for_each loop for inline blocks by input variable of datatype list.
+
+######## loop_without_dynamic_block Folder - Contains code which explains how to create code with for_each by avoiding inline blocks
