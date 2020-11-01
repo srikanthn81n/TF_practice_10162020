@@ -1,0 +1,3 @@
+output "MYWEBSERVER_MODULE_PUBLIC_IP" {
+    value = module.MYSERVER-staging.MYWEBSERVER_PUBLIC_IP
+}
